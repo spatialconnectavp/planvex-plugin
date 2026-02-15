@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "planvex": {
+      "type": "http",
+      "url": "https://planvex-api.spatialconnectavp.workers.dev/mcp"
+    }
+  }
+}
