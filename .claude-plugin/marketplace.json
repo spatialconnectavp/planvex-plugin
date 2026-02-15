@@ -1,0 +1,16 @@
+{
+  "name": "planvex-marketplace",
+  "owner": {
+    "name": "Planvex"
+  },
+  "metadata": {
+    "description": "Planvex project management tools for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "planvex",
+      "source": "./",
+      "description": "17 MCP tools for managing Planvex issues, notes, folders, comments, and labels"
+    }
+  ]
+}
