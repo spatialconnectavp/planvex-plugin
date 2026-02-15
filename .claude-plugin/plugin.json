@@ -1,0 +1,11 @@
+{
+  "name": "planvex",
+  "description": "Project management tools for Planvex - manage issues, notes, folders, comments, and labels from Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Planvex"
+  },
+  "homepage": "https://planvex.vercel.app",
+  "repository": "https://github.com/spatialconnectavp/planvex-plugin",
+  "keywords": ["project-management", "issue-tracker", "notes", "planvex"]
+}
